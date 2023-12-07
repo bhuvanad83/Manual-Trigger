@@ -1,1 +1,1 @@
-I'm learning Jenkins today
+Working on maual trigger
